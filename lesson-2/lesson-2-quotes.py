@@ -7,5 +7,6 @@ Created on Thu Jan 15 17:54:34 2026
 
 print("HEllo Emir") # This my code printed in Python with double quote
 print("Hello Emir. Emir tahs is my nickname") # This is my code printed in Pythoon with double  quote
-print("This code printed with  double quote")
-print('This code printed with single quote')
+print("This code printed with  double quote") #This is my code printed in Pyhon with double quote
+print('This code printed with single quote') #This is my quote printed with single quote
+print("""This is my code printed in  Pyhton with triple  Quote""")  #This is my code printed in Pyhton with triple quote 
